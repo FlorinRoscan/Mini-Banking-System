@@ -1,5 +1,4 @@
 # Python-Banking_System
-Python Banking System
 Python Banking System is a command-line based application that allows users to perform basic banking operations such as deposit, withdraw, and balance inquiry. This project is written in Python programming language and demonstrates the implementation of Object-Oriented Programming (OOP) concepts such as classes, objects, and inheritance.
 
 Getting Started
