@@ -4,8 +4,6 @@ Python Banking System is a command-line based application that allows users to p
 Getting Started
 To get started with Python Banking System, clone the repository and install the required dependencies:
 
-bash
-Copy code
 git clone https://github.com/FlorinRoscan/Python-Banking_System.git
 cd Python-Banking-System
 pip install -r requirements.txt
