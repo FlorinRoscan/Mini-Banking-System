@@ -16,9 +16,7 @@ Upon running the application, users will be presented with a menu of available o
 Login
 Deposit
 Check Balance
-
 Checking Balance
 To check your account balance, select option 3 from the menu. The system will display your current balance.
-
 Contributing
 If you'd like to contribute to Python Banking System, please fork the repository and create a pull request. We welcome contributions from the community!
